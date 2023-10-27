@@ -14,4 +14,4 @@ $db = ADONewConnection("mysqli");
 
 $conex = $db->Connect($conServidor, $conUsuario, $conClave, $conBasededatos);
 $db->Execute("SET NAMES 'utf8'"); // para que reconosca las ñ, acentos,etc
-?>
+?>      aaaaaaaaaaaaa
